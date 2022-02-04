@@ -1,6 +1,8 @@
 # manas angalakuduti
 #### :bee: third-year computer science major at georgia tech
 
+## tech stack
+
 
 
 
