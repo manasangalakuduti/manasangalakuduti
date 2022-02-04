@@ -2,6 +2,8 @@
 #### :bee: third-year computer science major at georgia tech
 
 ## tech stack
+<img align="left" alt="Visual Studio Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
+<img align="left" alt="Visual Studio Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50">
   <figcaption>Python</figcaption>
