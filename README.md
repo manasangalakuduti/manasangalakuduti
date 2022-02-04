@@ -3,7 +3,7 @@
 
 # tech stack
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=20 height=20 /> Python <br/>
-<img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width=20 height=20 /> Java <br/>
+<img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width=30 height=30 /> Java <br/>
 
 
 <!--
