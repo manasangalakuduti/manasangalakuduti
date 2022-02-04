@@ -1,6 +1,5 @@
-### Welcome to my GitHub
-
-ambitious third-year computer science major at georgia tech
+# Welcome to my GitHub
+#### ambitious third-year computer science major at georgia tech
 
 
 <!--
