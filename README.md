@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my GitHub
+
+ambitious third-year computer science major at georgia tech
+
 
 <!--
 **manasangalakuduti/manasangalakuduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
