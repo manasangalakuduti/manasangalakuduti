@@ -2,9 +2,11 @@
 :bee: third-year computer science major at georgia tech
 
 # tech stack
-<img src="https://img.icons8.com/color/48/000000/python.png" width=30 height=30 /> ####Python <br/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width=30 height=30 /> ####Java <br/>
+<img src="" width=30 height=30 />  <br/>
 
+<img src="https://img.icons8.com/color/48/000000/python.png" width=30 height=30 /> Python <br/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width=30 height=30 /> Java <br/>
+<img src="" width=30 height=30 /> Spring Boot <br/>
 
 <!--
 **manasangalakuduti/manasangalakuduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
