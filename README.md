@@ -7,14 +7,14 @@ Python
 Java  
 Spring Boot  
 Node.js  
-Angular
-HTML
-MySQL
-Swift
-Xcode
-Google Firebase
-Google Cloud
-Jenkins
+Angular  
+HTML  
+MySQL  
+Swift  
+Xcode  
+Google Firebase  
+Google Cloud  
+Jenkins  
 TensorFlow
 
 
