@@ -2,8 +2,7 @@
 #### :bee: third-year computer science major at georgia tech
 
 ## tech stack
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png = 10x10)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50">
 
 
 <!--
