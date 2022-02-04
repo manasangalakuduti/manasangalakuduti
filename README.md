@@ -2,12 +2,10 @@
 :bee: third-year computer science major at georgia tech
 
 # tech stack
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=50 height=50 /> Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=50 height=50 /> Python
 
-<p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Snow" width=50 height=50 />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Snow" width=50 height=50 /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Snow" width=50 height=50 />
-</p>
+
 <!--
 **manasangalakuduti/manasangalakuduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
