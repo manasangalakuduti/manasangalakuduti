@@ -1,5 +1,5 @@
-# manas_angalakuduti->github->read.me
-#### ambitious third-year computer science major at georgia tech
+# manas angalakuduti
+#### third-year computer science major at georgia tech
 
 
 <!--
