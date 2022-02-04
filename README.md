@@ -5,8 +5,10 @@
 <!-- <img src="" width=30 height=30 />  <br/> -->
 <img src="https://img.icons8.com/nolan/96/python.png" width=30 height=30 /> Python <br/>
 <img src="https://img.icons8.com/nolan/96/java-coffee-cup-logo.png" width=30 height=30 /> Java <br/>
-<img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width=19 height=19 /> Spring Boot <br/>
 
+<!--
+Spring Boot, Angular
+-->
 <!--
 **manasangalakuduti/manasangalakuduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
