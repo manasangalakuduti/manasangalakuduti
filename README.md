@@ -5,7 +5,7 @@
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50">
   <figcaption>Python</figcaption>
-</figure>
+</figure><br />
 <figure>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="50" height="50">
   <figcaption>Java</figcaption>
