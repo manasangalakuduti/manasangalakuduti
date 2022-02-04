@@ -5,7 +5,7 @@
 <!-- <img src="" width=30 height=30 />  <br/> -->
 
 <img src="https://img.icons8.com/color/48/000000/python.png" width=25 height=25 /> Python <br/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width=25 height=25 /> Java <br/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width=30 height=30 /> Java <br/>
 <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width=25 height=25 /> Spring Boot <br/>
 
 <!--
