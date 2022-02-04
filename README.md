@@ -4,6 +4,10 @@
 ## tech stack
 <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50"></a>
 
+<figure>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50" height="50">
+  <figcaption>Python</figcaption>
+</figure>
 
 <!--
 **manasangalakuduti/manasangalakuduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
