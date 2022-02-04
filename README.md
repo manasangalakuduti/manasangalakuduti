@@ -3,11 +3,8 @@
 
 # tech stack
 <!-- <img src="" width=30 height=30 />  <br/> -->
-<div>
-  <img src="https://img.icons8.com/nolan/96/python.png" width=50 height=50 />
-  <p style="font-size:50px">This is a paragraph.</p>
- </div> <br/>
-<img src="https://img.icons8.com/nolan/96/java-coffee-cup-logo.png" width=50 height=50 /> Java <br/>
+<img src="https://img.icons8.com/nolan/96/python.png" width=30 height=30 /> Python <br/>
+<img src="https://img.icons8.com/nolan/96/java-coffee-cup-logo.png" width=30 height=30 /> Java <br/>
 <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width=19 height=19 /> Spring Boot <br/>
 
 <!--
