@@ -3,11 +3,25 @@
 
 # tech stack
 <!-- <img src="" width=30 height=30 />  <br/> -->
-<img src="https://img.icons8.com/nolan/96/python.png" width=30 height=30 /> Python <br/>
-<img src="https://img.icons8.com/nolan/96/java-coffee-cup-logo.png" width=30 height=30 /> Java <br/>
+Python
+Java
+Spring Boot
+Node.js
+Angular
+HTML
+MySQL
+Swift
+Xcode
+Google Firebase
+Google Cloud
+Jenkins
+TensorFlow
+
 
 <!--
-Spring Boot, Angular
+Spring Boot, Angular other techs
+
+also section about interests such as f1, chicago sports, music (check out my spotify)
 -->
 <!--
 **manasangalakuduti/manasangalakuduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
