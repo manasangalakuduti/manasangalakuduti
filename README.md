@@ -3,10 +3,10 @@
 
 # tech stack
 <!-- <img src="" width=30 height=30 />  <br/> -->
-Python
-Java
-Spring Boot
-Node.js
+Python  
+Java  
+Spring Boot  
+Node.js  
 Angular
 HTML
 MySQL
