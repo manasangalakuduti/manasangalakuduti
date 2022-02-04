@@ -1,5 +1,5 @@
 # manas angalakuduti
-#### third-year computer science major at georgia tech
+#### :bee: third-year computer science major at georgia tech
 
 
 <!--
