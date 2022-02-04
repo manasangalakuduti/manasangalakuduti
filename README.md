@@ -1,7 +1,7 @@
 # manas angalakuduti
-#### :bee: third-year computer science major at georgia tech
+:bee: third-year computer science major at georgia tech
 
-## tech stack
+# tech stack
 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Snow" width=50 height=50 />
