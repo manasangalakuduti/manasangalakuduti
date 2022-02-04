@@ -2,8 +2,8 @@
 :bee: third-year computer science major at georgia tech
 
 # tech stack
-<img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" width=30 height=30 /> Python <br/>
-<img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" width=30 height=30 /> Java <br/>
+<img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width=30 height=30 /> Python <br/>
+<img src="https://cpng.pikpng.com/pngl/s/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width=30 height=30 /> Java <br/>
 
 
 <!--
