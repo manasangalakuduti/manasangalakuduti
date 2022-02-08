@@ -8,8 +8,9 @@
 
 
 # tech stack
+<a href="url"></a> * <a href="https://www.python.org/" target="_blank">Python</a> * <a href="https://docs.oracle.com/javase/specs/index.html">Java</a> * <a href="https://docs.oracle.com/javase/specs/index.html">JavaScript</a>  
+- <a href="https://docs.oracle.com/javase/specs/index.html">JavaFX</a>  
 - <a href="url"></a>  
-- <a href="https://www.python.org/" target="_blank">Python</a>  
 <!-- <img src="" width=30 height=30 />  <br/>
 Python  
 Java  
