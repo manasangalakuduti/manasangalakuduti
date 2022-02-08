@@ -8,6 +8,8 @@
 
 
 # tech stack
+- <a href="url"></a>  
+- <a href="https://www.python.org/">Python</a>  
 <!-- <img src="" width=30 height=30 />  <br/>
 Python  
 Java  
