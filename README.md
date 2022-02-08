@@ -8,8 +8,12 @@
 
 
 # tech stack + concepts
-<a href="url"></a> :dizzy: <a href="https://www.python.org/" target="_blank">Python</a> :dizzy: <a href="https://spring.io/projects/spring-boot">Spring Boot</a> :dizzy: <a href="https://nodejs.org/en/">Node.js</a> :dizzy: <a href="https://angular.io/">Angular</a> :dizzy: <a href="https://html.com/">HTML</a> :dizzy: <a href="https://www.mysql.com/">MySQL</a> :dizzy: <a href="https://developer.apple.com/swift/">Swift</a> :dizzy: <a href="https://developer.apple.com/xcode/">Xcode</a> :dizzy: <a href="https://firebase.google.com/">Google Firebase</a> :dizzy: <a href="https://cloud.google.com/">Google Cloud</a> :dizzy: <a href="https://www.jenkins.io/">Jenkins</a> :dizzy: <a href="https://www.tensorflow.org/">TensorFlow</a>  
+<a href="url"></a> :dizzy: <a href="https://www.python.org/" target="_blank">Python</a> :dizzy: <a href="https://docs.oracle.com/javase/specs/index.html">Java</a> :dizzy: <a href="https://spring.io/projects/spring-boot">Spring Boot</a> :dizzy: <a href="https://nodejs.org/en/">Node.js</a> :dizzy: <a href="https://angular.io/">Angular</a> :dizzy: <a href="https://html.com/">HTML</a> :dizzy: <a href="https://www.mysql.com/">MySQL</a> :dizzy: <a href="https://developer.apple.com/swift/">Swift</a> :dizzy: <a href="https://developer.apple.com/xcode/">Xcode</a> :dizzy: <a href="https://firebase.google.com/">Google Firebase</a> :dizzy: <a href="https://cloud.google.com/">Google Cloud</a> :dizzy: <a href="https://www.tensorflow.org/">TensorFlow</a>  
 
+<!--
+:dizzy: <a href="https://www.javascript.com/">JavaScript</a> :dizzy: <a href="https://openjfx.io/">JavaFX</a> 
+:dizzy: <a href="https://www.jenkins.io/">Jenkins</a>
+-->
 <!--
 Spring Boot, Angular other techs
 
