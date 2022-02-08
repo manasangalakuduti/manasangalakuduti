@@ -8,19 +8,9 @@
 
 
 # tech stack
-<a href="url"></a> * <a href="https://www.python.org/" target="_blank">Python</a> * <a href="https://docs.oracle.com/javase/specs/index.html">Java</a> * <a href="https://docs.oracle.com/javase/specs/index.html">JavaScript</a>  
-- <a href="https://docs.oracle.com/javase/specs/index.html">JavaFX</a>  
+<a href="url"></a> :dizzy: <a href="https://www.python.org/" target="_blank">Python</a> :dizzy: <a href="https://docs.oracle.com/javase/specs/index.html">Java</a> :dizzy: <a href="https://www.javascript.com/">JavaScript</a> :dizzy: <a href="https://openjfx.io/">JavaFX</a> :dizzy: <a href="https://spring.io/projects/spring-boot">Spring Boot</a> :dizzy: <a href="https://nodejs.org/en/">Node.js</a> :dizzy: <a href="https://angular.io/">Angular</a> :dizzy: <a href="https://html.com/">HTML</a> :dizzy: <a href="https://www.mysql.com/">MySQL</a> :dizzy: <a href="https://developer.apple.com/swift/">Swift</a> :dizzy: <a href="https://developer.apple.com/xcode/">Xcode</a>  
 - <a href="url"></a>  
-<!-- <img src="" width=30 height=30 />  <br/>
-Python  
-Java  
-Spring Boot  
-Node.js  
-Angular  
-HTML  
-MySQL  
-Swift  
-Xcode  
+<!-- <img src="" width=30 height=30 />  <br/> 
 Google Firebase  
 Google Cloud  
 Jenkins  
