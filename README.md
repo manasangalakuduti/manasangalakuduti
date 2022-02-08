@@ -1,8 +1,11 @@
 # manas angalakuduti
 ### :bee: student at georgia tech  
 - 3rd year computer science major
-- pursuing a career in data science, specifically machine learning
-- 
+- pursuing a career in data science (artificial intelligence and machine learning)
+- enjoy watching and racing motorsport, specifically f1
+- chicago sports fan
+
+
 # tech stack
 <!-- <img src="" width=30 height=30 />  <br/>
 Python  
