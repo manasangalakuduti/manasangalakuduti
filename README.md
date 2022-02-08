@@ -1,6 +1,8 @@
 # manas angalakuduti
-:bee: third-year computer science major at georgia tech
-
+###:bee: student at georgia tech  
+- 3rd year computer science major
+- pursuing a career in data science, specifically machine learning
+- 
 # tech stack
 <!-- <img src="" width=30 height=30 />  <br/>
 Python  
