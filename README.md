@@ -1,5 +1,5 @@
 # manas angalakuduti
-###:bee: student at georgia tech  
+### :bee: student at georgia tech  
 - 3rd year computer science major
 - pursuing a career in data science, specifically machine learning
 - 
