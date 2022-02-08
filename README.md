@@ -2,7 +2,7 @@
 :bee: third-year computer science major at georgia tech
 
 # tech stack
-<!-- <img src="" width=30 height=30 />  <br/> -->
+<!-- <img src="" width=30 height=30 />  <br/>
 Python  
 Java  
 Spring Boot  
@@ -17,7 +17,7 @@ Google Cloud
 Jenkins  
 TensorFlow
 
-
+-->
 <!--
 Spring Boot, Angular other techs
 
