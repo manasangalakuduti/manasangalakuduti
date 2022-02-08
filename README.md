@@ -1,10 +1,10 @@
 # manas angalakuduti
 ### about me
-:bee: 3rd year computer science major at georgia tech  
-:desktop_computer: pursuing a career in data science (artificial intelligence and machine learning)  
-:racing_car: enjoy watching and racing motorsport, specifically f1  
-:saxophone: saxophone player and music enthusiast  
-:basketball: chicago sports fan  
+:bee:  3rd year computer science major at georgia tech  
+:desktop_computer:  pursuing a career in data science (artificial intelligence and machine learning)  
+:racing_car:  enjoy watching and racing motorsport, specifically f1  
+:saxophone:  saxophone player and music enthusiast  
+:basketball:  chicago sports fan  
 
 
 # tech stack
