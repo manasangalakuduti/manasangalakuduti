@@ -1,4 +1,4 @@
-# manas angalakuduti  🚧 work in progress  
+# manas angalakuduti
 ## about me
 :bee:  3rd year computer science major at georgia tech  
 :desktop_computer:  pursuing a career in data science (artificial intelligence and machine learning)  
