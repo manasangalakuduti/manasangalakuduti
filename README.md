@@ -8,7 +8,7 @@
 
 
 ## tech stack + concepts
-<a href="https://www.python.org/" target="_blank">Python</a> :small_blue_diamond: <a href="https://docs.oracle.com/javase/specs/index.html">Java</a> :small_blue_diamond: <a href="https://spring.io/projects/spring-boot">Spring Boot</a> :small_blue_diamond: <a href="https://nodejs.org/en/">Node.js</a> :small_blue_diamond: <a href="https://angular.io/">Angular</a> :small_blue_diamond: <a href="https://html.com/">HTML</a> :small_blue_diamond: <a href="https://www.mysql.com/">MySQL</a> :small_blue_diamond: <a href="https://developer.apple.com/swift/">Swift</a> :small_blue_diamond: <a href="https://developer.apple.com/xcode/">Xcode</a> :small_blue_diamond: <a href="https://cloud.google.com/">Google Cloud</a> :small_blue_diamond: <a href="https://www.tensorflow.org/">TensorFlow</a>  
+<a href="https://www.python.org/" target="_blank">Python</a> :small_orange_diamond: <a href="https://docs.oracle.com/javase/specs/index.html">Java</a> :small_orange_diamond: <a href="https://spring.io/projects/spring-boot">Spring Boot</a> :small_orange_diamond: <a href="https://nodejs.org/en/">Node.js</a> :small_orange_diamond: <a href="https://angular.io/">Angular</a> :small_orange_diamond: <a href="https://html.com/">HTML</a> :small_orange_diamond: <a href="https://www.mysql.com/">MySQL</a> :small_orange_diamond: <a href="https://developer.apple.com/swift/">Swift</a> :small_orange_diamond: <a href="https://developer.apple.com/xcode/">Xcode</a> :small_orange_diamond: <a href="https://cloud.google.com/">Google Cloud</a> :small_orange_diamond: <a href="https://www.tensorflow.org/">TensorFlow</a>  
 
 <!--
 :dizzy: <a href="https://www.javascript.com/">JavaScript</a> :dizzy: <a href="https://openjfx.io/">JavaFX</a> 
